@@ -6,7 +6,7 @@ fn main() {
     let part1_solution = get_part1_solution();
     println!("Part 1: {}", part1_solution); // 8088
     let part2_solution = get_part2_solution();
-    println!("Part 2: {}", part2_solution); // 8088
+    println!("Part 2: {}", part2_solution); // 2522
 }
 
 fn get_part1_solution() -> u32 {
