@@ -1,6 +1,5 @@
 use std::fs::File;
 use std::io::{BufRead, BufReader};
-use std::ops::RangeInclusive;
 
 fn main() {
     println!("Part 1 Solution: {}", get_part1_solution()); // 532
