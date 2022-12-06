@@ -10,8 +10,8 @@ namespace Day5
             // MoveStacksPart1(stacks);   // MQSHJMWNH
             MoveStacksPart2(stacks);      // LLWJRBHVZ
             Console.WriteLine(GetStackTops(stacks));
-
         }
+
 
         public static Stack<char>[] SetUpStacks()
         {
