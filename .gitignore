@@ -368,3 +368,17 @@ Cargo.lock
 # .idea gitignore files
 **/.idea/workspace.xml 
 **/.idea/tasks.xml
+
+# vscode (just ignore everything this time)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
