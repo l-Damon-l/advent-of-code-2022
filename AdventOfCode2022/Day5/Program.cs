@@ -16,7 +16,6 @@ namespace Day5
         public static Stack<char>[] SetUpStacks()
         {
             const string filename = "../Day5/Day5Puzzle.txt";
-            // read file
             var stacks = new Stack<char>[9];
             for (int i = 0; i < 9; i++)
             {
